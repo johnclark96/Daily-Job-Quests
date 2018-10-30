@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Daily_Job_Quests/Daily_Job_Quests.iml" filepath="$PROJECT_DIR$/Daily_Job_Quests/Daily_Job_Quests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Delphi_Core/Delphi_Core.iml" filepath="$PROJECT_DIR$/Delphi_Core/Delphi_Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sidd_Plugin/Sidd_Plugin.iml" filepath="$PROJECT_DIR$/Sidd_Plugin/Sidd_Plugin.iml" />
+    </modules>
+  </component>
+</project>

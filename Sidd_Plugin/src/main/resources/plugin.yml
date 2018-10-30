@@ -1,0 +1,5 @@
+name: SiddGodMode
+version: ${project.version}
+main: me.delphidevelopment.minecraft.mcdev.SiddGodMode
+authors: [Michael]
+description: Sidds God Mode Plugin

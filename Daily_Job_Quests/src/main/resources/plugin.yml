@@ -1,0 +1,5 @@
+name: Daily-Job-Quests
+version: ${project.version}
+main: me.delphidevelopment.minecraft.dailyjobquests.DailyJobQuests
+authors: [Michael]
+description: Daily Job Quest plugin for Lucenria

@@ -1,0 +1,5 @@
+name: Delphi
+version: ${project.version}
+main: me.delphidevelopment.minecraft.mcdev.Mcdev
+authors: [Michael]
+description: Delphi Main Plugin

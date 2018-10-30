@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Daily_Job_Quests:jar">
+    <output-path>$USER_HOME$/Desktop/MC 1.13.2/plugins</output-path>
+    <root id="archive" name="Daily_Job_Quests.jar">
+      <element id="module-output" name="Daily_Job_Quests" />
+    </root>
+  </artifact>
+</component>
