@@ -1,4 +1,4 @@
-package me.delphidevelopment.minecraft.dailyjobquests.events;
+package net.runebrire.qapi.events;
 
 import org.bukkit.block.Block;
 import org.bukkit.entity.Player;

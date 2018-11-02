@@ -1,7 +1,6 @@
-package me.delphidevelopment.minecraft.dailyjobquests;
+package net.runebrire.qapi;
 
-import me.delphidevelopment.minecraft.dailyjobquests.commands.Dailyjobquests;
-import org.bukkit.command.CommandExecutor;
+import net.runebrire.qapi.commands.Dailyjobquests;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class DailyJobQuests extends JavaPlugin {

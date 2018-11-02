@@ -1,14 +1,14 @@
-package me.delphidevelopment.minecraft.dailyjobquests.events;
+package net.runebrire.qapi.events;
 
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.entity.EntityPickupItemEvent;
 import org.bukkit.event.inventory.InventoryPickupItemEvent;
 
-import static me.delphidevelopment.minecraft.dailyjobquests.quests.Quest.QuestType;
-import static me.delphidevelopment.minecraft.dailyjobquests.quests.Quest.QuestType.GATHER;
-import static me.delphidevelopment.minecraft.dailyjobquests.quests.Quest.QuestType.KILL;
-import static me.delphidevelopment.minecraft.dailyjobquests.quests.Quest.QuestType.WALK;
+import static net.runebrire.qapi.quests.Quest.QuestType;
+import static net.runebrire.qapi.quests.Quest.QuestType.GATHER;
+import static net.runebrire.qapi.quests.Quest.QuestType.KILL;
+import static net.runebrire.qapi.quests.Quest.QuestType.WALK;
 
 public class QuestGenerateEvent implements Listener {
 

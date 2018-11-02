@@ -1,4 +1,4 @@
-package me.delphidevelopment.minecraft.dailyjobquests.commands;
+package net.runebrire.qapi.commands;
 
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
