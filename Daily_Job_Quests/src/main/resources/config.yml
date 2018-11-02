@@ -1,0 +1,9 @@
+Gathering:
+  Amount:
+    Min: 50
+    Max: 100
+  Item:
+    OAK_LOG,
+    SAPLING,
+    IRON_ORE
+    DIAMOND

@@ -3,3 +3,7 @@ version: ${project.version}
 main: me.delphidevelopment.minecraft.dailyjobquests.DailyJobQuests
 authors: [Michael]
 description: Daily Job Quest plugin for Lucenria
+commands:
+  dailyjobquests:
+    description: Daily Job Quests Plugin Test
+    aliases: [djs]
